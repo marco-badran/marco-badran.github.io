@@ -7,7 +7,7 @@ email: "you@example.com"
 baseurl: "" # leave blank for root
 url: "https://yourusername.github.io" # replace with your GitHub Pages URL
 
-theme: minimal # Use the 'minimal' theme
+theme: minima # Use the 'minima' theme
 plugins:
   - jekyll-feed
 
