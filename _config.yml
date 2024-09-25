@@ -1,12 +1,8 @@
 # Site settings
 title: "My Jekyll Site"
 description: "A minimal example of a Jekyll site"
-author: "Your Name"
+author: "Marco Badran"
 email: "you@example.com"
-baseurl: "" # the subpath of your site, e.g. /blog, leave empty for root
-url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: your_twitter
-github_username: your_github
 
 # Build settings
 theme: minima # or any other theme, can be custom or from the Jekyll theme repository
