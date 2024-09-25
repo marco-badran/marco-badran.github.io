@@ -1,1 +1,3 @@
-theme: minima
+title: My Site
+description: A description of your site
+theme: minima  # or another theme supported by GitHub Pages
