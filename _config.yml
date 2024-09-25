@@ -1,26 +1,17 @@
 # _config.yml
 
-title: "My own Jekyll Minimal Site"
-description: "A simple Jekyll site with a right-aligned image"
+title: "My very own Jekyll Minima Site"
+description: "A simple Jekyll site using the Minima theme"
 author: "Your Name"
-email: "you@example.com"
-baseurl: "" # leave blank for root
-url: "https://yourusername.github.io" # replace with your GitHub Pages URL
+theme: minima # Correct theme
 
-theme: minima # Use the 'minima' theme
+baseurl: "" # GitHub Pages-specific
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+
 plugins:
   - jekyll-feed
 
-# Markdown settings
+# Markdown
 markdown: kramdown
 kramdown:
   input: GFM
-
-# Exclude files from the site build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-
-# Build settings
-permalink: /:year/:month/:day/:title/
