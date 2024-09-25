@@ -1,3 +1,39 @@
-title: My Site
-description: A description of your site
-theme: minima  # or another theme supported by GitHub Pages
+# Site settings
+title: "My Jekyll Site"
+description: "A minimal example of a Jekyll site"
+author: "Your Name"
+email: "you@example.com"
+baseurl: "" # the subpath of your site, e.g. /blog, leave empty for root
+url: "http://example.com" # the base hostname & protocol for your site
+twitter_username: your_twitter
+github_username: your_github
+
+# Build settings
+theme: minima # or any other theme, can be custom or from the Jekyll theme repository
+plugins:
+  - jekyll-feed # example of a plugin to generate an RSS feed
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub Flavored Markdown
+
+# Permalinks
+permalink: /:year/:month/:day/:title/ # format for blog post URLs
+
+# Collections (optional)
+collections:
+  my_collection:
+    output: true # collection example if you want to group custom content like portfolios
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+
+# Additional configuration (optional)
+paginate: 5 # number of posts per page for pagination (if using)
+paginate_path: "/page:num/"
