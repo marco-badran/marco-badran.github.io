@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
 # Welcome to My Jekyll Site!
 
-This is a simple example of a Jekyll site using the **minimal** theme, hosted on GitHub Pages. Below, you'll find an image on the right-hand side.
+This is a simple example of a Jekyll site using the **minima** theme, hosted on GitHub Pages. Below, you'll find an image on the right-hand side.
 
 Here’s some placeholder text about the content of the site.
 
