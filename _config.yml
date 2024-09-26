@@ -5,7 +5,6 @@ description: "A simple Jekyll site using the Minima theme"
 author: "Your Name"
 theme: minima # Correct theme
 
-baseurl: "" # GitHub Pages-specific
 url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
 
 plugins:
