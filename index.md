@@ -7,6 +7,9 @@ title: Welcome
 
 This is a simple site using the **minima** theme on GitHub Pages.
 
-![Right-Aligned Image](https://via.placeholder.com/150 "Placeholder Image")
+<div style="text-align: right;">
+  ![Right-Aligned Image](https://via.placeholder.com/150 "Placeholder Image")
+</div>
+
 
 Here’s some content for your homepage.
