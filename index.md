@@ -11,7 +11,7 @@ title: Marco Badran's personal webpage
   </div>
   <div style="flex: 0;">
     <img src="{{ site.baseurl }}/img.jpg" alt="My Image" title="My Image"
-         style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover; margin-left: 20px;"/>
+         style="border-radius: 50%; width: auto; height: 250px; object-fit: cover; aspect-ratio: 1 / 1; margin-left: 20px;"/>
   </div>
 </div>
 
