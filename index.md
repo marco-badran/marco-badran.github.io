@@ -10,7 +10,7 @@ title: Marco Badran's personal webpage
     <p>Previously, I was a Ph.D. student at University of Bath under the supervision of Prof. Manuel del Pino.</p>
   </div>
   <div style="flex: 0;">
-    <img src="img.png" alt="Placeholder Image" title="Placeholder Image"
+    <img src="{{ site.baseurl }}/img.jpg" alt="Placeholder Image" title="Placeholder Image"
          style="border-radius: 50%; width: 250px; height: auto; object-fit: cover; margin-left: 20px;"/>
   </div>
 </div>
