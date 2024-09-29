@@ -14,7 +14,3 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-# Navigation links in the header
-header_pages:
-  - index.md     # Home page
-  - teaching.md  # Teaching page
