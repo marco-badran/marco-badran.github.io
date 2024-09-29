@@ -12,7 +12,3 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
-
-header_pages:
-  - index.md
-  - teaching.md
