@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Welcome
+title: Marco Badran's personal webpage
 ---
 
-# You're Welcome to My Jekyll Site!
+# Welcome!
 
 This is a simple site using the **minima** theme on GitHub Pages.
 
