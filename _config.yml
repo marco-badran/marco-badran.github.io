@@ -1,8 +1,8 @@
 # _config.yml
 
-title: "My very own Jekyll Minima Site"
-description: "A simple Jekyll site using the Minima theme"
-author: "Your Name"
+title: "Marco Badran"
+description: "Marco Badran's personal webpage"
+author: "Marco Badran"
 theme: minima # Correct theme
 
 url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
