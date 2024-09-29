@@ -10,7 +10,7 @@ title: Marco Badran's personal webpage
 .</p> 
     <p>Previously, I was a Ph.D. student at <a href="https://www.bath.ac.uk/departments/department-of-mathematical-sciences/">University of Bath</a> under the supervision of <a href="https://researchportal.bath.ac.uk/en/persons/manuel-del-pino">Prof. Manuel del Pino</a>.</p>
   </div>
-  <div style="flex: 0;">
+  <div style="flex: 1;">
     <img src="{{ site.baseurl }}/img.jpg" alt="My Image" title="My Image"
          style="border-radius: 50%; width: auto; height: 250px; object-fit: cover; aspect-ratio: 1 / 1; margin-left: 20px;"/>
   </div>
