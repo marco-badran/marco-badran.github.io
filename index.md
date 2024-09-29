@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1;">
     <h3>Welcome!</h3>
     <p>I am a postdoc at <a href="https://math.ethz.ch">ETH Zürich</a>, my mentor is <a href="https://people.math.ethz.ch/~serraj/">Prof. Joaquim Serra</a>.</p> 
@@ -22,16 +22,12 @@ title: Home
 <style>
   /* Media query for screens smaller than 768px (phones, small tablets) */
   @media (max-width: 768px) {
-    div[style*="flex: 1;"] {
-      order: 2; /* Ensures text comes second */
-    }
-    div[style*="order: 1;"] {
-      order: 1; /* Ensures image comes first */
-      width: 100%;
-      text-align: center;
+    div[style*="display: flex;"] {
+      flex-direction: column; /* Stack items vertically */
+      align-items: center; /* Center items */
     }
     img {
-      margin: 20px 0;
+      margin-bottom: 20px; /* Adds space between the image and text */
     }
   }
 </style>
