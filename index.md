@@ -14,6 +14,7 @@ title: Home
   <div>
     <img src="{{ site.baseurl }}/img.jpg" alt="My Image" title="My Image"
          style="border-radius: 50%; width: auto; height: 200px; object-fit: cover; aspect-ratio: 1 / 1;"/>
+    <br><br>
   <p style="text-align: center;">marco.badran[at]math.ethz.ch</p>
   </div>
 </div>
