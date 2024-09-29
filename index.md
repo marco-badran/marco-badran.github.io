@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Welcome
 ---
 
 # You're Welcome to My Jekyll Site!
