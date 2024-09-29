@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 ---
 
-# Welcome to My Jekyll Site!
+# You're Welcome to My Jekyll Site!
 
 This is a simple site using the **minima** theme on GitHub Pages.
 
