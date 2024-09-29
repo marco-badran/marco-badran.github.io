@@ -3,7 +3,6 @@ theme: minima
 
 # Replace with your actual GitHub Pages URL
 url: "https://marco-badran.github.io/marco-badran/"
-baseurl: ""  # Leave empty if deploying to root
 
 # Plugins
 plugins:
