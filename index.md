@@ -13,7 +13,7 @@ title: Marco Badran's personal webpage
   </div>
   <div style="flex: 0;">
     <img src="https://via.placeholder.com/250" alt="Placeholder Image" title="Placeholder Image"
-         style="border-radius: 50%; width: 250px; height: auto; object-fit: cover; margin-left: 20px;" />
+         style="border-radius: 50%; width: 2500px; height: auto; object-fit: cover; margin-left: 20px;" />
   </div>
 </div>
 
