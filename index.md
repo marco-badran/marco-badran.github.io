@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1;">
     <h3>Welcome!</h3>
     <p>I am a postdoc at <a href="https://math.ethz.ch">ETH Zürich</a>, my mentor is <a href="https://people.math.ethz.ch/~serraj/">Prof. Joaquim Serra</a>.</p> 
@@ -18,4 +18,21 @@ title: Home
   <p style="text-align: center;">marco.badran[at]math.ethz.ch</p>
   </div>
 </div>
+
+<style>
+  /* Media query for screens smaller than 768px (phones, small tablets) */
+  @media (max-width: 768px) {
+    div[style*="flex: 1;"] {
+      order: 2; /* Ensures text comes second */
+    }
+    div[style*="order: 1;"] {
+      order: 1; /* Ensures image comes first */
+      width: 100%;
+      text-align: center;
+    }
+    img {
+      margin: 20px 0;
+    }
+  }
+</style>
 
