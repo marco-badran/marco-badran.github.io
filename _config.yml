@@ -3,7 +3,7 @@ theme: minima
 
 # Replace with your actual GitHub Pages URL
 url: "https://marco-badran.github.io"
-baseurl: "/marco-badran"
+baseurl: ""
 
 
 # Markdown settings
