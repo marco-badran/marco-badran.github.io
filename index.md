@@ -22,6 +22,7 @@ title: Home
   <li>Fractional minimal surfaces.</li>
   </ul>
     </p>
+  You can find a recent CV <a href="CurriculumVitae/CurriculumVitae.pdf">here</a>.
   </div>
 </div>
 
