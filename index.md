@@ -15,12 +15,7 @@ title: Home
     <h3>Welcome!</h3>
     <p>I am a postdoc at <a href="https://math.ethz.ch">ETH Zürich</a>, my mentor is <a href="https://people.math.ethz.ch/~serraj/">Prof. Joaquim Serra</a>.</p> 
     <p>Previously, I was a Ph.D. student at <a href="https://www.bath.ac.uk/departments/department-of-mathematical-sciences/">University of Bath</a> under the supervision of <a href="https://researchportal.bath.ac.uk/en/persons/manuel-del-pino">Prof. Manuel del Pino</a>.</p>
-    <p>I am interested in geometric analysis, in particular the study of higher-codimensional minimal surfaces and geometric PDEs related. 
-     <ul>
-  <li>Harmonic maps to the circle and their relaxations,</li>
-  <li>Allen-Cahn and Ginzburg-Landau theories,</li>
-  <li>Fractional minimal surfaces.</li>
-  </ul>
+    <p>I am interested in geometric analysis, in particular the study of higher-codimensional minimal surfaces and geometric PDEs related, such as Ginzburg-Landau and harmonic maps to spheres.
     </p>
   You can find a recent CV <a href="CurriculumVitae/CurriculumVitae.pdf">here</a>.
   </div>
