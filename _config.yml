@@ -11,3 +11,5 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+# Add a custom footer or modify/remove the existing one
+footer: "2024 Marco Badran"
