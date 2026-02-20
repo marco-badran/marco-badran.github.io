@@ -3,9 +3,10 @@ layout: default
 title: Teaching
 ---
 
-## Fall 2024 
+## Fall 2025
 
-* Fall 2025: organiser of Mathematik I (D-USYS), ETHZ.
+* Organiser of Mathematik I (D-USYS), ETHZ.
+* Co-lecturer of Geometric Heat Flows (D-MATH), ETHZ.
 
 ### Previous semesters
 
