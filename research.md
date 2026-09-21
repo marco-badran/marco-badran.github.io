@@ -15,3 +15,11 @@ title: Research
     <li>(with M. del Pino) Solutions of the Ginzburg-Landau equations concentrating on codimension-2 minimal submanifolds. <b>J. London Math. Soc.</b> <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12851" target="_blank"> Journal.</a></li>
     <li>(with M. del Pino) Entire solutions to 4-dimensional Ginzburg-Landau equations and codimension 2 minimal submanifolds. <b>Adv. Math.</b> <a href="https://www.sciencedirect.com/science/article/pii/S000187082300508X?dgcid=author" target="_blank"> Journal.</a></li>
 </ol>
+
+## AI-discovered proofs
+
+This section collects papers whose proofs were first produced by AI through a series of interactions with the authors. Our role was to check the arguments and rework the proofs, clarifying the underlying ideas and making them accessible to the mathematical community.
+
+<ol reversed style="line-height: 1.6;">
+    <li>(with M. A. M. Guaraco and A. Halavati) Integral curvature estimates and geodesic limits for stable abelian Higgs fields. <a href="https://arxiv.org/abs/2609.21893" target="_blank"> arXiv.</a></li>
+</ol>
