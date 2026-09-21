@@ -18,7 +18,7 @@ title: Research
 
 ## AI-discovered proofs
 
-This section collects papers whose proofs were first produced by AI through a series of interactions with the authors. Our role was to check the arguments and rework the proofs, clarifying the underlying ideas and making them accessible to the mathematical community.
+<p style="font-size: 0.9em;">This section collects papers whose proofs were first produced by AI through a series of interactions with the authors. Our role was to check the arguments and rework the proofs, clarifying the underlying ideas and making them accessible to the mathematical community.</p>
 
 <ol reversed style="line-height: 1.6;">
     <li>(with M. A. M. Guaraco and A. Halavati) Integral curvature estimates and geodesic limits for stable abelian Higgs fields. <a href="https://arxiv.org/abs/2609.21893" target="_blank"> arXiv.</a></li>
