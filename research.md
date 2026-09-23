@@ -7,11 +7,11 @@ title: Research
 
 <ol reversed style="line-height: 1.6;">
     <li> Stable solutions in the abelian Higgs model.<br>
-        <b>Submitted</b> <a href="https://arxiv.org/abs/2609.11647" target="_blank"> arXiv.</a></li>
+        <b>Submitted.</b> <a href="https://arxiv.org/abs/2609.11647" target="_blank"> arXiv.</a></li>
     <li>(with M. del Pino and M. A. M. Guaraco) A two-dimensional Allen-Cahn theory for interfaces with boundary.<br>
-        <b>Submitted</b> <a href="https://arxiv.org/abs/2607.29588" target="_blank"> arXiv.</a></li>
+        <b>Submitted.</b> <a href="https://arxiv.org/abs/2607.29588" target="_blank"> arXiv.</a></li>
     <li>(with G. Cozzi) Uniform small energy regularity for fractional geometric problems.<br>
-        <b>Submitted</b> <a href="https://arxiv.org/abs/2605.06128" target="_blank"> arXiv.</a></li>
+        <b>Submitted.</b> <a href="https://arxiv.org/abs/2605.06128" target="_blank"> arXiv.</a></li>
     <li>(with S. Dipierro and E. Valdinoci) Nonlocal free boundary minimal surfaces.<br>
         To appear in <b>Ann. Sc. Norm. Super. Pisa Cl. Sci.</b> <a href="https://arxiv.org/abs/2508.00337" target="_blank"> arXiv.</a></li>
     <li>(with J. Van Schaftingen) Stationary $p$-harmonic maps approaching planar singular harmonic maps to the circle.<br>
