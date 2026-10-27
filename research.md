@@ -6,6 +6,8 @@ title: Research
 ## Papers and preprints 
 
 <ol reversed style="line-height: 1.6;">
+    <li style="margin-bottom: 0.6em;"><span style="font-size: 16.5px; font-weight: 500; color: #222;">Nonabelian Higgs fields from minimal submanifolds.</span><br>
+        <span style="font-size: 14px; color: #222;"><span style="color: #555;">M. Badran.</span> <b>Preprint.</b> <a href="https://arxiv.org/abs/2610.35837" target="_blank" rel="noopener noreferrer"> arXiv.</a></span></li>
     <li style="margin-bottom: 0.6em;"><span style="font-size: 16.5px; font-weight: 500; color: #222;">Stable solutions in the abelian Higgs model.</span><br>
         <span style="font-size: 14px; color: #222;"><span style="color: #555;">M. Badran.</span> <b>Submitted.</b> <a href="https://arxiv.org/abs/2609.11647" target="_blank"> arXiv.</a></span></li>
     <li style="margin-bottom: 0.6em;"><span style="font-size: 16.5px; font-weight: 500; color: #222;">A two-dimensional Allen-Cahn theory for interfaces with boundary.</span><br>
